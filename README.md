@@ -12,7 +12,7 @@ This project analyzes a retail sales dataset to uncover business insights about 
 
 ## Key Insights
 - Monthly revenue fluctuates around a stable average.
-- Customers aged 26–35 generate the most revenue.
+- Customers aged 46–60 generate the most revenue.
 - A small number of customers contribute significantly to total sales.
 
 ## Visualizations
