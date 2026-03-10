@@ -11,10 +11,17 @@ This project analyzes a retail sales dataset to uncover business insights about 
 - Excel
 
 ## Key Insights
-- Identified the highest revenue generating product categories
-- Analyzed customer demographics and buying patterns
-- Visualized sales trends over time
-- Built charts to communicate insights effectively
+- Monthly revenue fluctuates around a stable average.
+- Customers aged 26–35 generate the most revenue.
+- A small number of customers contribute significantly to total sales.
+
+## Visualizations
+Charts included in this analysis:
+- Monthly Sales Trend
+- Revenue by Gender
+- Revenue by Age Group
+- Top Spending Customers
+- Retail Sales Dashboard
 
 ## Project Structure
 data/ - dataset used for analysis
