@@ -10,6 +10,10 @@ This project analyzes a retail sales dataset to uncover business insights about 
 - Matplotlib
 - Excel
 
+## Retail Sales Dashboard
+
+![Retail Sales Dashboard](visuals/retail_sales_dashboard.png)
+
 ## Key Insights
 - Monthly revenue fluctuates around a stable average.
 - Customers aged 46–60 generate the most revenue.
